@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fangxiang-610-308",
+    "texture": "39d68633-a7d0-4cff-859a-52b43cb78d53",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      124,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      164
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

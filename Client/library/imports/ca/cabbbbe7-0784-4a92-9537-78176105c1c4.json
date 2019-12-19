@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cjfjbtn-566-576",
+    "texture": "e2123345-cf69-4e70-8fd9-cb53a6792ab6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      279,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      279,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

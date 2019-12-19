@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liuju",
+    "texture": "826318f8-0aa5-4cc7-aa08-1b7d15816a10",
+    "atlas": "",
+    "rect": [
+      11,
+      8,
+      94,
+      25
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      114,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhandjs-534-52",
+    "texture": "97bf0553-f482-489b-b6cd-569ff5101bd0",
+    "atlas": "",
+    "rect": [
+      48,
+      10,
+      182,
+      27
+    ],
+    "offset": [
+      1.5,
+      1
+    ],
+    "originalSize": [
+      275,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

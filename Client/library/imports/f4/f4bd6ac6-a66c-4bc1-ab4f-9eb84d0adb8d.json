@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tongy3-1068-6554",
+    "texture": "2b2fc9ed-d978-45aa-bfe5-6f9882d31510",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      225,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

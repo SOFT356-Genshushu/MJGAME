@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jixuyx-578-682",
+    "texture": "da1a87ca-2f5b-4ff8-8409-835d1ec56307",
+    "atlas": "",
+    "rect": [
+      31,
+      1,
+      119,
+      27
+    ],
+    "offset": [
+      -1,
+      3.5
+    ],
+    "originalSize": [
+      183,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

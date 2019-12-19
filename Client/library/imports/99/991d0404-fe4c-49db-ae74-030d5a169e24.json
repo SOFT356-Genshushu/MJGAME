@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gdchang-1128-218",
+    "texture": "9f5dbae2-38bf-4ad6-a607-e180f8a8337e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      396
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      11,
+      396
+    ],
+    "capInsets": [
+      2,
+      6,
+      2,
+      5
+    ]
+  }
+}

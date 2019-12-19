@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "webwxgetmsgimg",
+    "texture": "9c2a45ad-c7ad-4e97-a2fa-068c0638707e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

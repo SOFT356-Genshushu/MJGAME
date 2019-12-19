@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yingle-612-52",
+    "texture": "69ce8e90-72ef-4ef0-9a0c-6e088f469325",
+    "atlas": "",
+    "rect": [
+      25,
+      8,
+      62,
+      26
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      113,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

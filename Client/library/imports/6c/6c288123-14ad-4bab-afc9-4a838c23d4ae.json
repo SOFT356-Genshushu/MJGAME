@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianpaowang-810-260",
+    "texture": "d2535f47-5a25-4a01-9e7f-3a976f1f90a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

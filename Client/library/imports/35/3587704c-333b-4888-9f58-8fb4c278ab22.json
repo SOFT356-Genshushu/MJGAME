@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zengjiadt-234-80",
+    "texture": "9fb3e5e1-5955-4c23-9f87-bf94da22c963",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

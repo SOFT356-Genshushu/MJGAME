@@ -1,0 +1,40 @@
+{
+  "name": "datongmajiangguan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js",
+    "preaction": "node core/PreAction.js",
+    "web": "node web/bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "bson": "^0.5.6",
+    "bufferutil": "^3.0.0",
+    "bunyan": "^1.8.5",
+    "consistent": "^1.1.0",
+    "consistent-hash": "^1.0.2",
+    "debug": "^2.6.0",
+    "dotenv": "^2.0.0",
+    "express": "^4.15.4",
+    "heapdump": "^0.3.7",
+    "in-app-purchase": "^1.1.10",
+    "ioredis": "^3.1.4",
+    "memwatch-next": "^0.3.0",
+    "mongoose": "^4.11.11",
+    "msgpack-lite": "^0.1.26",
+    "node-cmd": "^3.0.0",
+    "node-schedule": "^1.2.0",
+    "node-static": "^0.7.9",
+    "node-uuid": "^1.4.7",
+    "redis": "^2.8.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4",
+    "sequelize": "^4.27.0",
+    "ws": "^2.2.3"
+  },
+  "author": "litengfei",
+  "license": "ISC"
+}

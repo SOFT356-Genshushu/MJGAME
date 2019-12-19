@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "weixindl-556-632",
+    "texture": "4afcfa02-94ce-4b5b-a44d-033adde679bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      225,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

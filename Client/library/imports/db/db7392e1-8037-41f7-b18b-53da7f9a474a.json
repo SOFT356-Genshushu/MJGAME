@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiazt1-450-624",
+    "texture": "bdf13fb4-a6e7-4cfc-ab06-96accfc8db52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      440,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      440,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

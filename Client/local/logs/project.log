@@ -1,0 +1,77 @@
+2019-12-19T20:39:34.287Z - normal: Load ~/.CocosCreator/settings.json
+2019-12-19T20:39:35.497Z - normal: Initializing Asset Database
+2019-12-19T20:39:35.500Z - normal: checking language setting...
+2019-12-19T20:39:35.500Z - normal: Language: zh
+2019-12-19T20:39:36.262Z - success: preview server running at http://localhost:7456
+2019-12-19T20:39:36.265Z - success: protocol editor-framework registered
+2019-12-19T20:39:36.265Z - success: protocol app registered
+2019-12-19T20:39:36.265Z - success: protocol theme registered
+2019-12-19T20:39:36.265Z - success: protocol packages registered
+2019-12-19T20:39:36.265Z - success: protocol uuid registerred
+2019-12-19T20:39:36.265Z - success: protocol db registerred
+2019-12-19T20:39:36.265Z - success: protocol thumbnail registerred
+2019-12-19T20:39:36.265Z - success: protocol unpack registerred
+2019-12-19T20:39:36.265Z - success: protocol disable-commonjs registerred
+2019-12-19T20:39:37.470Z - normal: connected!
+2019-12-19T20:39:37.471Z - normal: Check project D:\Distributed_Application_Development\ZhuangMa10664074DAD\Client
+2019-12-19T20:39:37.473Z - normal: Initializing project D:\Distributed_Application_Development\ZhuangMa10664074DAD\Client
+2019-12-19T20:39:37.930Z - normal: Initializing Cocos2d
+2019-12-19T20:39:38.845Z - normal: Initializing engine extends
+2019-12-19T20:39:38.868Z - success: alipay-adapter loaded
+2019-12-19T20:39:38.874Z - success: asset-db-debugger loaded
+2019-12-19T20:39:38.877Z - success: baidu-adapter loaded
+2019-12-19T20:39:38.880Z - success: color-picker loaded
+2019-12-19T20:39:39.032Z - success: fb-audience-network loaded
+2019-12-19T20:39:39.116Z - success: fb-live-stream loaded
+2019-12-19T20:39:39.128Z - success: google-play-instant loaded
+2019-12-19T20:39:39.185Z - success: huawei-runtime loaded
+2019-12-19T20:39:39.395Z - success: cpk-publish loaded
+2019-12-19T20:39:39.396Z - success: jsb-adapter loaded
+2019-12-19T20:39:39.402Z - success: oppo-runtime loaded
+2019-12-19T20:39:39.406Z - success: package-manager loaded
+2019-12-19T20:39:39.536Z - success: qqplay-adapter loaded
+2019-12-19T20:39:39.538Z - success: runtime-dev-tools loaded
+2019-12-19T20:39:39.546Z - success: sdkbox loaded
+2019-12-19T20:39:39.550Z - success: tester loaded
+2019-12-19T20:39:39.553Z - success: ui-kit-preview-extra loaded
+2019-12-19T20:39:39.555Z - success: ui-kit-preview loaded
+2019-12-19T20:39:39.557Z - success: ui-kit loaded
+2019-12-19T20:39:39.565Z - success: vivo-runtime loaded
+2019-12-19T20:39:39.566Z - success: weapp-adapter loaded
+2019-12-19T20:39:39.567Z - success: xiaomi-adapter loaded
+2019-12-19T20:39:39.571Z - success: alipay-minigame loaded
+2019-12-19T20:39:39.616Z - success: assets loaded
+2019-12-19T20:39:39.619Z - success: builder loaded
+2019-12-19T20:39:39.912Z - success: cocos-services loaded
+2019-12-19T20:39:39.917Z - success: console loaded
+2019-12-19T20:39:39.948Z - success: fb-instant-games loaded
+2019-12-19T20:39:39.951Z - success: game-window loaded
+2019-12-19T20:39:39.952Z - success: google-instant-games loaded
+2019-12-19T20:39:39.958Z - success: hierarchy loaded
+2019-12-19T20:39:39.960Z - success: inspector loaded
+2019-12-19T20:39:39.961Z - success: keystore loaded
+2019-12-19T20:39:39.965Z - success: node-library loaded
+2019-12-19T20:39:39.967Z - success: package-asset loaded
+2019-12-19T20:39:39.968Z - success: preferences loaded
+2019-12-19T20:39:39.970Z - success: project-exporter loaded
+2019-12-19T20:39:39.972Z - success: project-importer loaded
+2019-12-19T20:39:39.975Z - success: project-settings loaded
+2019-12-19T20:39:39.979Z - success: scene loaded
+2019-12-19T20:39:39.981Z - success: simulator-debugger loaded
+2019-12-19T20:39:39.982Z - success: sprite-editor loaded
+2019-12-19T20:39:39.986Z - success: store loaded
+2019-12-19T20:39:39.990Z - success: timeline loaded
+2019-12-19T20:39:39.995Z - success: xiaomi-runtime loaded
+2019-12-19T20:39:42.545Z - normal: Loading packages
+2019-12-19T20:39:42.553Z - normal: Watching packages
+2019-12-19T20:39:43.380Z - normal: Run Application
+2019-12-19T20:40:01.584Z - info: Cocos Services load base data!
+2019-12-19T22:25:40.432Z - info: 只有预制节点 "finalscore" 及其子节点会被保存。
+2019-12-19T22:28:44.140Z - info: 只有预制节点 "finalscore" 及其子节点会被保存。
+2019-12-19T22:30:25.149Z - info: 只有预制节点 "finalscore" 及其子节点会被保存。
+2019-12-19T22:30:27.804Z - info: 只有预制节点 "finalscore" 及其子节点会被保存。
+2019-12-19T22:30:28.010Z - info: 只有预制节点 "finalscore" 及其子节点会被保存。
+2019-12-19T22:30:28.336Z - info: 只有预制节点 "finalscore" 及其子节点会被保存。
+2019-12-19T22:30:28.549Z - info: 只有预制节点 "finalscore" 及其子节点会被保存。
+2019-12-19T22:30:50.474Z - info: 只有预制节点 "finalscore" 及其子节点会被保存。
+2019-12-19T22:55:15.874Z - info: shutdown preview server

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creategame",
+    "texture": "664f6578-4312-4b83-a76e-ef3840890a09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      452,
+      439
+    ],
+    "offset": [
+      -2,
+      1.5
+    ],
+    "originalSize": [
+      456,
+      442
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

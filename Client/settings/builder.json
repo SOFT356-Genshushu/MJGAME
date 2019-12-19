@@ -1,0 +1,28 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": false,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.xinmiaosen.zhaguzi",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "a3049fa9-fd64-44c2-ab95-642405b3d71d",
+  "title": "jidanmajiang",
+  "webOrientation": "auto",
+  "xxteaKey": "3fcbd7d3-6785-4a"
+}

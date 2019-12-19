@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shule",
+    "texture": "0efbf556-345d-4828-a869-f666d0db5a7a",
+    "atlas": "",
+    "rect": [
+      29,
+      5,
+      75,
+      31
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      133,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
