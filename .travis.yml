@@ -1,7 +1,5 @@
 language: node_js
 node_js:
  - '12'
-script: make test
 services:
     mongodb
-    start:node start.js
