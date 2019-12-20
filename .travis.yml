@@ -4,3 +4,4 @@ node_js:
 script: make test
 services:
     mongodb
+    start:node start.js
