@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node start.js",
     "preaction": "node core/PreAction.js",
-    "web": "node web/bin/www"
+    "web": "node web/Api.js"
   },
   "dependencies": {
     "body-parser": "^1.17.1",
